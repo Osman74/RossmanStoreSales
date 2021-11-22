@@ -49,3 +49,8 @@ Promo2Since[Year/Week] - describes the year and calendar week when the store sta
 PromoInterval - describes the consecutive intervals Promo2 is started, naming the months the promotion is started anew. E.g. "Feb,May,Aug,Nov" means each round starts in February, May, August, November of any given year for that store
 
 <a href="https://www.kaggle.com/c/rossmann-store-sales/data"> Data </a>
+
+## Score
+RMSPE
+Public score - 0.13109
+Private score - 0.14973
