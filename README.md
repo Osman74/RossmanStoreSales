@@ -52,5 +52,7 @@ PromoInterval - describes the consecutive intervals Promo2 is started, naming th
 
 ## Score
 RMSPE
+
 Public score - 0.13109
+
 Private score - 0.14973
