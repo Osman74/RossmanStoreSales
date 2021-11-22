@@ -51,7 +51,7 @@ PromoInterval - describes the consecutive intervals Promo2 is started, naming th
 <a href="https://www.kaggle.com/c/rossmann-store-sales/data"> Data </a>
 
 ## Score
-RMSPE
+<b>RMSPE</b>
 
 Public score - 0.13109
 
